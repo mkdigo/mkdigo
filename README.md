@@ -1,16 +1,41 @@
-## Hi there 👋
+# Olá, me chamo Rodrigo Mukudai! 👋
 
-<!--
-**mkdigo/mkdigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Desenvolvedor Fullstack
 
-Here are some ideas to get you started:
+Sou um desenvolvedor apaixonado por construir soluções web completas. Minha stack principal hoje envolve o ecossistema **React/Node** e a elegância do **Laravel**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Minha Caixa de Ferramentas
+
+| Frontend                                                                                                | Backend                                                                                                | Infra & DB                                                                                          |
+| :------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- |
+| ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)  | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)    |
+| ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)             | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)        | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)          |
+
+---
+
+### 👨‍💻 O que ando fazendo?
+
+- **Frontend:** Criando interfaces reativas e tipadas com **React** e **TypeScript**.
+- **Backend:** Desenvolvendo APIs robustas com **Laravel** ou microserviços ágeis com **Node.js**.
+- **DevOps/Workflow:** Automatizando ambientes com **Docker** e mantendo a integridade do código via **Git**.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="left">
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mkdigo&show_icons=true&theme=radical&include_all_commits=true"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkdigo&layout=compact&langs_count=7&theme=radical"/>
+</p>
+
+---
+
+### 📫 Vamos conversar?
+
+- **LinkedIn:** [linkedin.com/in/rodrigomukudai](https://linkedin.com/in/rodrigomukudai)
+- **E-mail:** mkdigo@gmail.com
+- **Portfólio:** [rodrigomukudai.com](https://rodrigomukudai.com)
+

@@ -24,12 +24,9 @@ Sou um desenvolvedor apaixonado por construir soluções web completas. Minha st
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Vale a pena ver:
 
-<p align="left">
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mkdigo&show_icons=true&theme=radical&include_all_commits=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkdigo&layout=compact&langs_count=7&theme=radical"/>
-</p>
+- [https://github.com/mkdigo/accounting-api](https://github.com/mkdigo/accounting-api) API RESTful de gerencimento financeiro, baseado em lançamentos contábeis.
 
 ---
 

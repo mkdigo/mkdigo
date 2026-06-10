@@ -27,6 +27,7 @@ Sou um desenvolvedor apaixonado por construir soluções web completas. Minha st
 ### 📊 Vale a pena ver:
 
 - [https://github.com/mkdigo/accounting-api](https://github.com/mkdigo/accounting-api) API RESTful de gerencimento financeiro, baseado em lançamentos contábeis.
+- [https://github.com/mkdigo/accounting-frontend](https://github.com/mkdigo/accounting-frontend) Front-end do app de gerencimento financeiro, baseado em lançamentos contábeis.
 
 ---
 
